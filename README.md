@@ -4,7 +4,7 @@
 This is the pytorch implementation of our paper at CIKM 2023:
 > [Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework](https://arxiv.org/abs/2306.17426)
 > 
-> Yang Zhang, Yimeng Bai, Jianxin Chang, Xiaoxue Zang, Song Lu, Jing Lu, Fuli Feng, Yanan Niu, Yang Song .
+> Yang Zhang, Yimeng Bai, Jianxin Chang, Xiaoxue Zang, Song Lu, Jing Lu, Fuli Feng, Yanan Niu, Yang Song.
 
 ## Usage
 
